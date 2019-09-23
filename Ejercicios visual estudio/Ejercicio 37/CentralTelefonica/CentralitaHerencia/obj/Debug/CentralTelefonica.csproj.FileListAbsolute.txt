@@ -18,3 +18,13 @@ D:\Github\Clases-laboratorio-2\Clases-laboratorio-2\Ejercicios visual estudio\Ej
 D:\Github\Clases-laboratorio-2\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralTelefonica.csproj.CopyComplete
 D:\Github\Clases-laboratorio-2\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
 D:\Github\Clases-laboratorio-2\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\bin\Debug\Centralita.dll
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\bin\Debug\Centralita.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralTelefonica.csprojAssemblyReference.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralTelefonica.csproj.CoreCompileInputs.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralTelefonica.csproj.CopyComplete
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

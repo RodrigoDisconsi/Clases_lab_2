@@ -95,11 +95,11 @@ namespace CentralitaHerencia
             {
                 if ((tipo == Llamada.TipoLlamada.Local || tipo == Llamada.TipoLlamada.Todas) && aux is Local)
                 {
-                    retorno = ((Local)aux).CostoLlamada;
+                    retorno += ((Local)aux).CostoLlamada;
                 }
                 else if ((tipo == Llamada.TipoLlamada.Provincial || tipo == Llamada.TipoLlamada.Todas) && aux is Provincial)
                 {
-                    retorno =((Provincial)aux).CostoLlamada;
+                    retorno +=((Provincial)aux).CostoLlamada;
                 }
             }
             return retorno;
