@@ -1,0 +1,14 @@
+D:\UTNw\Segundo Cuatri\Guia ejercicios\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+D:\UTNw\Segundo Cuatri\Guia ejercicios\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+D:\UTNw\Segundo Cuatri\Guia ejercicios\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+D:\UTNw\Segundo Cuatri\Guia ejercicios\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+D:\UTNw\Segundo Cuatri\Guia ejercicios\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+D:\UTNw\Segundo Cuatri\Guia ejercicios\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
+D:\UTNw\Segundo Cuatri\Guia ejercicios\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.csprojAssemblyReference.cache
+D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.csprojAssemblyReference.cache
+D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 4\obj\Debug\Ejercicio 4.pdb

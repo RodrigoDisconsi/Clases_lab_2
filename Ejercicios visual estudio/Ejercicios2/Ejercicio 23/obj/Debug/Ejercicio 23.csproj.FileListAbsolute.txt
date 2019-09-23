@@ -1,0 +1,13 @@
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\bin\Debug\Ejercicio 23.exe.config
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\bin\Debug\Ejercicio 23.exe
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\bin\Debug\Ejercicio 23.pdb
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\bin\Debug\Moneda.dll
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\bin\Debug\Moneda.pdb
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\obj\Debug\Ejercicio 23.csprojAssemblyReference.cache
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\obj\Debug\Ejercicio_23.Form1.resources
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\obj\Debug\Ejercicio_23.Properties.Resources.resources
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\obj\Debug\Ejercicio 23.csproj.GenerateResource.cache
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\obj\Debug\Ejercicio 23.csproj.CoreCompileInputs.cache
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\obj\Debug\Ejercicio 23.csproj.CopyComplete
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\obj\Debug\Ejercicio 23.exe
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 23\obj\Debug\Ejercicio 23.pdb

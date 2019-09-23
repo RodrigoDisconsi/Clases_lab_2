@@ -1,0 +1,7 @@
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 20\obj\Debug\Ejercicio 20.csprojAssemblyReference.cache
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 20\obj\Debug\Ejercicio 20.csproj.CoreCompileInputs.cache
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 20\bin\Debug\Ejercicio 20.exe.config
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 20\bin\Debug\Ejercicio 20.exe
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 20\bin\Debug\Ejercicio 20.pdb
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 20\obj\Debug\Ejercicio 20.exe
+D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios\Ejercicio 20\obj\Debug\Ejercicio 20.pdb
