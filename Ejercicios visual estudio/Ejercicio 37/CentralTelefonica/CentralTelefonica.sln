@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralTelefonica", "CentralitaHerencia\CentralTelefonica.csproj", "{41778214-6E3A-4E30-B48D-C01717777EC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "Centralita\CentralitaHerencia.csproj", "{8EE322F1-640A-41C3-B4F0-3CC8C68E4A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio N°40", "Ejercicio N°40\Ejercicio N°40.csproj", "{8CF7D07E-7ACA-4924-B814-6CDD2F731FD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8EE322F1-640A-41C3-B4F0-3CC8C68E4A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EE322F1-640A-41C3-B4F0-3CC8C68E4A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EE322F1-640A-41C3-B4F0-3CC8C68E4A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF7D07E-7ACA-4924-B814-6CDD2F731FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF7D07E-7ACA-4924-B814-6CDD2F731FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF7D07E-7ACA-4924-B814-6CDD2F731FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF7D07E-7ACA-4924-B814-6CDD2F731FD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
