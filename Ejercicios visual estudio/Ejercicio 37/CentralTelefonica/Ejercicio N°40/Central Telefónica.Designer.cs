@@ -28,72 +28,76 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
+            this.btnGenerarLlamada = new System.Windows.Forms.Button();
+            this.btnTotal = new System.Windows.Forms.Button();
+            this.btnLocal = new System.Windows.Forms.Button();
+            this.btnProvincial = new System.Windows.Forms.Button();
+            this.btnSalir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnGenerarLlamada
             // 
-            this.button1.Location = new System.Drawing.Point(12, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(256, 54);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Generar Llamada";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnGenerarLlamada.Location = new System.Drawing.Point(12, 12);
+            this.btnGenerarLlamada.Name = "btnGenerarLlamada";
+            this.btnGenerarLlamada.Size = new System.Drawing.Size(256, 54);
+            this.btnGenerarLlamada.TabIndex = 0;
+            this.btnGenerarLlamada.Text = "Generar Llamada";
+            this.btnGenerarLlamada.UseVisualStyleBackColor = true;
+            this.btnGenerarLlamada.Click += new System.EventHandler(this.BtnGenerarLlamada_Click);
             // 
-            // button2
+            // btnTotal
             // 
-            this.button2.Enabled = false;
-            this.button2.Location = new System.Drawing.Point(12, 82);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(256, 54);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Facturación Total";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnTotal.Enabled = false;
+            this.btnTotal.Location = new System.Drawing.Point(12, 82);
+            this.btnTotal.Name = "btnTotal";
+            this.btnTotal.Size = new System.Drawing.Size(256, 54);
+            this.btnTotal.TabIndex = 1;
+            this.btnTotal.Text = "Facturación Total";
+            this.btnTotal.UseVisualStyleBackColor = true;
+            this.btnTotal.Click += new System.EventHandler(this.BtnTotal_Click);
             // 
-            // button3
+            // btnLocal
             // 
-            this.button3.Enabled = false;
-            this.button3.Location = new System.Drawing.Point(12, 151);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(256, 54);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Facturación Local";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnLocal.Enabled = false;
+            this.btnLocal.Location = new System.Drawing.Point(12, 151);
+            this.btnLocal.Name = "btnLocal";
+            this.btnLocal.Size = new System.Drawing.Size(256, 54);
+            this.btnLocal.TabIndex = 2;
+            this.btnLocal.Text = "Facturación Local";
+            this.btnLocal.UseVisualStyleBackColor = true;
+            this.btnLocal.Click += new System.EventHandler(this.BtnLocal_Click);
             // 
-            // button4
+            // btnProvincial
             // 
-            this.button4.Enabled = false;
-            this.button4.Location = new System.Drawing.Point(12, 222);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(256, 54);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "Facturación Provincial";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnProvincial.Enabled = false;
+            this.btnProvincial.Location = new System.Drawing.Point(12, 222);
+            this.btnProvincial.Name = "btnProvincial";
+            this.btnProvincial.Size = new System.Drawing.Size(256, 54);
+            this.btnProvincial.TabIndex = 3;
+            this.btnProvincial.Text = "Facturación Provincial";
+            this.btnProvincial.UseVisualStyleBackColor = true;
+            this.btnProvincial.Click += new System.EventHandler(this.BtnProvincial_Click);
             // 
-            // button5
+            // btnSalir
             // 
-            this.button5.Location = new System.Drawing.Point(12, 295);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(256, 54);
-            this.button5.TabIndex = 4;
-            this.button5.Text = "Salir";
-            this.button5.UseVisualStyleBackColor = true;
+            this.btnSalir.Location = new System.Drawing.Point(12, 295);
+            this.btnSalir.Name = "btnSalir";
+            this.btnSalir.Size = new System.Drawing.Size(256, 54);
+            this.btnSalir.TabIndex = 4;
+            this.btnSalir.Text = "Salir";
+            this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.BtnSalir_Click);
             // 
             // FormMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(280, 361);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnSalir);
+            this.Controls.Add(this.btnProvincial);
+            this.Controls.Add(this.btnLocal);
+            this.Controls.Add(this.btnTotal);
+            this.Controls.Add(this.btnGenerarLlamada);
             this.Name = "FormMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Central Telefónica";
@@ -103,11 +107,11 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btnGenerarLlamada;
+        private System.Windows.Forms.Button btnTotal;
+        private System.Windows.Forms.Button btnLocal;
+        private System.Windows.Forms.Button btnProvincial;
+        private System.Windows.Forms.Button btnSalir;
     }
 }
 

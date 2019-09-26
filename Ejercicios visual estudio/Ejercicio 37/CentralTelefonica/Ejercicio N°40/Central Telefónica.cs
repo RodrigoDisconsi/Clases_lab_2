@@ -20,10 +20,40 @@ namespace Ejercicio_N_40
             this.centralita = new Centralita("Centralita Form");
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void BtnGenerarLlamada_Click(object sender, EventArgs e)
         {
-            Form aux = new FrmLlamador(this.centralita);
+            FrmLlamador aux = new FrmLlamador(this.centralita);
             aux.ShowDialog();
+            this.centralita = aux.GetCentralita;
+            btnProvincial.Enabled = true;
+            btnLocal.Enabled = true;
+            btnTotal.Enabled = true;
+        }
+
+        private void BtnTotal_Click(object sender, EventArgs e)
+        {
+            FormMostrar ganancias = new FormMostrar(this.centralita);
+            ganancias.Mostrar(Llamada.TipoLlamada.Todas);
+            ganancias.Show();
+        }
+
+        private void BtnLocal_Click(object sender, EventArgs e)
+        {
+            FormMostrar ganancias = new FormMostrar(this.centralita);
+            ganancias.Mostrar(Llamada.TipoLlamada.Local);
+            ganancias.Show();
+        }
+
+        private void BtnProvincial_Click(object sender, EventArgs e)
+        {
+            FormMostrar ganancias = new FormMostrar(this.centralita);
+            ganancias.Mostrar(Llamada.TipoLlamada.Provincial);
+            ganancias.Show();
+        }
+
+        private void BtnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

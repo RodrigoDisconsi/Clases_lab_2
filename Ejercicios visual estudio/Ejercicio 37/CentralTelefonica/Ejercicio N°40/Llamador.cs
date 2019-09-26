@@ -46,81 +46,81 @@ namespace Ejercicio_N_40
             return retorno;
         }
 
-        private void SetNumeros(TextBox textBox, string numero)
+        private void SetNumeros(string numero)
         {
-            if (textBox.Text == "Nro Destino" && textBox.Text == "Nro Origen")
+            if (this.textBoxActual.Text == "Nro Destino")
             {
-                textBox.Text = numero;
+                this.textBoxActual.Text = numero;
             }
             else
             {
-                textBox.Text += numero;
+                this.textBoxActual.Text += numero;
             }
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button1.Text);
+            SetNumeros(button1.Text);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button2.Text);
+            SetNumeros(button2.Text);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button3.Text);
+            SetNumeros(button3.Text);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button4.Text);
+            SetNumeros(button4.Text);
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button5.Text);
+            SetNumeros(button5.Text);
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button6.Text);
+            SetNumeros(button6.Text);
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button7.Text);
+            SetNumeros(button7.Text);
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button8.Text);
+            SetNumeros(button8.Text);
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button9.Text);
+            SetNumeros(button9.Text);
         }
 
         private void buttonX_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, buttonX.Text);
+            SetNumeros(buttonX.Text);
         }
 
         private void button0_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, button0.Text);
+            SetNumeros(button0.Text);
         }
 
         private void buttonNumeral_Click(object sender, EventArgs e)
         {
-            SetNumeros(textBoxActual, buttonNumeral.Text);
+            SetNumeros(buttonNumeral.Text);
         }
 
         private void txtNroDestino_TextChanged(object sender, EventArgs e)
         {
-            if(txtNroDestino.Text[0] == '#')
+            if(isProvincial())
             {
                 cmbFranja.Enabled = true;
                 if(txtNroDestino.Text.Length == 5)
@@ -136,12 +136,22 @@ namespace Ejercicio_N_40
 
         private void btnLlamar_Click(object sender, EventArgs e)
         {
-            //Local auxLocal;
-            //Provincial auxProvincial;
-            //if(txtNroDestino.Text[0] == '#')
-            //{
-            //    auxProvincial
-            //}
+            Local auxLocal;
+            Provincial auxProvincial;
+            Random numero = new Random();
+            Provincial.Franja franja;
+            Enum.TryParse<Provincial.Franja>(cmbFranja.SelectedValue.ToString(), out franja);
+            if (isProvincial())
+            {
+                auxProvincial = new Provincial(txtNroOrigen.Text, franja, numero.Next(1, 50), txtNroDestino.Text);
+                this.centralita.Llamadas.Add(auxProvincial);
+            }
+            else
+            {
+                auxLocal = new Local(txtNroOrigen.Text, numero.Next(1, 50) , txtNroDestino.Text, (float)numero.NextDouble());
+                this.centralita.Llamadas.Add(auxLocal);
+            }          
+            MessageBox.Show("Llamada agregada con éxito!");
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
@@ -149,6 +159,11 @@ namespace Ejercicio_N_40
             txtNroDestino.Text = "Nro Destino";
             txtNroOrigen.Text = "Nro Origen";
             cmbFranja.Enabled = false;
+        }
+
+        private void TxtNroOrigen_Click(object sender, EventArgs e)
+        {
+            txtNroOrigen.Clear();
         }
     }
 }

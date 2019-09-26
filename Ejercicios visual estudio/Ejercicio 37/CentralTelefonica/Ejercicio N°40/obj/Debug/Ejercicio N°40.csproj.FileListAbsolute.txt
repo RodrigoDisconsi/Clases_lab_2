@@ -12,3 +12,18 @@ D:\Rodrigo\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefo
 D:\Rodrigo\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.csproj.CopyComplete
 D:\Rodrigo\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.exe
 D:\Rodrigo\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\bin\Debug\Ejercicio N°40.exe.config
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\bin\Debug\Ejercicio N°40.exe
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\bin\Debug\Ejercicio N°40.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\bin\Debug\Centralita.dll
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\bin\Debug\Centralita.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.csprojAssemblyReference.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio_N_40.FormMenu.resources
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio_N_40.FrmLlamador.resources
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio_N_40.Properties.Resources.resources
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.csproj.GenerateResource.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.csproj.CoreCompileInputs.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.csproj.CopyComplete
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.exe
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio_N_40.FormMostrar.resources

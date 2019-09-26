@@ -52,7 +52,7 @@ namespace CentralitaHerencia
 
 
 
-        public string Mostrar()
+        private string Mostrar()
         {
             StringBuilder retorno = new StringBuilder();
             retorno.AppendLine(this.razonSocial.ToUpper()+":");

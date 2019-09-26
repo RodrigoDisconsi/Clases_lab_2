@@ -230,6 +230,7 @@
             this.txtNroOrigen.Size = new System.Drawing.Size(179, 32);
             this.txtNroOrigen.TabIndex = 4;
             this.txtNroOrigen.Text = "Nro Orignen";
+            this.txtNroOrigen.Click += new System.EventHandler(this.TxtNroOrigen_Click);
             // 
             // btnSalir
             // 
@@ -263,6 +264,7 @@
             this.Controls.Add(this.gpPanel);
             this.Controls.Add(this.txtNroDestino);
             this.Name = "FrmLlamador";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Llamador";
             this.gpPanel.ResumeLayout(false);
             this.ResumeLayout(false);

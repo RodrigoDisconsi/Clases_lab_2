@@ -52,6 +52,12 @@
     <Compile Include="Central Telefónica.Designer.cs">
       <DependentUpon>Central Telefónica.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormMostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMostrar.Designer.cs">
+      <DependentUpon>FormMostrar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Llamador.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Central Telefónica.resx">
       <DependentUpon>Central Telefónica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMostrar.resx">
+      <DependentUpon>FormMostrar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Llamador.resx">
       <DependentUpon>Llamador.cs</DependentUpon>
