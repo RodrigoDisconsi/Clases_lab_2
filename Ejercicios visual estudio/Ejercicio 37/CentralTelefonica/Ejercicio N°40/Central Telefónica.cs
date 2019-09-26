@@ -19,5 +19,11 @@ namespace Ejercicio_N_40
             InitializeComponent();
             this.centralita = new Centralita("Centralita Form");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form aux = new FrmLlamador(this.centralita);
+            aux.ShowDialog();
+        }
     }
 }
