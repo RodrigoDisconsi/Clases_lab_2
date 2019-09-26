@@ -33,21 +33,27 @@ namespace Ejercicio_N_40
         private void BtnTotal_Click(object sender, EventArgs e)
         {
             FormMostrar ganancias = new FormMostrar(this.centralita);
-            ganancias.Mostrar(Llamada.TipoLlamada.Todas);
+            //ganancias.SetTipoLlamada = Llamada.TipoLlamada.Todas;
+            ganancias.SetTipoLlamada = Llamada.TipoLlamada.Todas;
+            ganancias.Mostrar();
             ganancias.Show();
         }
 
         private void BtnLocal_Click(object sender, EventArgs e)
         {
             FormMostrar ganancias = new FormMostrar(this.centralita);
-            ganancias.Mostrar(Llamada.TipoLlamada.Local);
+            //ganancias.SetTipoLlamada = Llamada.TipoLlamada.Local;
+            ganancias.SetTipoLlamada = Llamada.TipoLlamada.Local;
+            ganancias.Mostrar();
             ganancias.Show();
         }
 
         private void BtnProvincial_Click(object sender, EventArgs e)
         {
             FormMostrar ganancias = new FormMostrar(this.centralita);
-            ganancias.Mostrar(Llamada.TipoLlamada.Provincial);
+            //ganancias.SetTipoLlamada = Llamada.TipoLlamada.Provincial;
+            ganancias.SetTipoLlamada = Llamada.TipoLlamada.Provincial;
+            ganancias.Mostrar();
             ganancias.Show();
         }
 

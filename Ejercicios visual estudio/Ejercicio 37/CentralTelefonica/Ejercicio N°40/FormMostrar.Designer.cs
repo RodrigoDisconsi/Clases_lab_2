@@ -34,9 +34,10 @@
             // richTxtBox
             // 
             this.richTxtBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.richTxtBox.Location = new System.Drawing.Point(0, 1);
+            this.richTxtBox.Location = new System.Drawing.Point(12, 12);
             this.richTxtBox.Name = "richTxtBox";
-            this.richTxtBox.Size = new System.Drawing.Size(347, 282);
+            this.richTxtBox.ReadOnly = true;
+            this.richTxtBox.Size = new System.Drawing.Size(320, 254);
             this.richTxtBox.TabIndex = 0;
             this.richTxtBox.Text = "";
             // 
@@ -47,6 +48,7 @@
             this.ClientSize = new System.Drawing.Size(344, 278);
             this.Controls.Add(this.richTxtBox);
             this.Name = "FormMostrar";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormMostrar";
             this.ResumeLayout(false);
 

@@ -59,6 +59,7 @@
             this.txtNroDestino.Size = new System.Drawing.Size(365, 32);
             this.txtNroDestino.TabIndex = 0;
             this.txtNroDestino.Text = "Nro Destino";
+            this.txtNroDestino.Click += new System.EventHandler(this.txtNroDestino_Click);
             this.txtNroDestino.TextChanged += new System.EventHandler(this.txtNroDestino_TextChanged);
             // 
             // gpPanel
@@ -227,9 +228,10 @@
             this.txtNroOrigen.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNroOrigen.Location = new System.Drawing.Point(198, 197);
             this.txtNroOrigen.Name = "txtNroOrigen";
+            this.txtNroOrigen.ReadOnly = true;
             this.txtNroOrigen.Size = new System.Drawing.Size(179, 32);
             this.txtNroOrigen.TabIndex = 4;
-            this.txtNroOrigen.Text = "Nro Orignen";
+            this.txtNroOrigen.Text = "Nro Origen";
             this.txtNroOrigen.Click += new System.EventHandler(this.TxtNroOrigen_Click);
             // 
             // btnSalir

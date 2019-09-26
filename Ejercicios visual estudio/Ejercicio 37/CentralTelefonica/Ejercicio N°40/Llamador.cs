@@ -48,7 +48,7 @@ namespace Ejercicio_N_40
 
         private void SetNumeros(string numero)
         {
-            if (this.textBoxActual.Text == "Nro Destino")
+            if (this.textBoxActual.Text == "Nro Destino" || this.textBoxActual.Text == "Nro Origen")
             {
                 this.textBoxActual.Text = numero;
             }
@@ -123,33 +123,27 @@ namespace Ejercicio_N_40
             if(isProvincial())
             {
                 cmbFranja.Enabled = true;
-                if(txtNroDestino.Text.Length == 5)
-                {
-                    txtNroDestino.Text += "-";
-                }
-            }
-            else if(txtNroDestino.Text.Length == 4)
-            {
-                txtNroDestino.Text += "-";
             }
         }
 
         private void btnLlamar_Click(object sender, EventArgs e)
         {
-            Local auxLocal;
-            Provincial auxProvincial;
+            //Local auxLocal;
+           // Provincial auxProvincial;
             Random numero = new Random();
             Provincial.Franja franja;
             Enum.TryParse<Provincial.Franja>(cmbFranja.SelectedValue.ToString(), out franja);
             if (isProvincial())
             {
-                auxProvincial = new Provincial(txtNroOrigen.Text, franja, numero.Next(1, 50), txtNroDestino.Text);
-                this.centralita.Llamadas.Add(auxProvincial);
+                //auxProvincial = new Provincial(txtNroOrigen.Text, franja, numero.Next(1, 50), txtNroDestino.Text);
+                //this.centralita += auxProvincial;
+                this.centralita += new Provincial(txtNroOrigen.Text, franja, numero.Next(1, 50), txtNroDestino.Text);
             }
             else
             {
-                auxLocal = new Local(txtNroOrigen.Text, numero.Next(1, 50) , txtNroDestino.Text, (float)numero.NextDouble());
-                this.centralita.Llamadas.Add(auxLocal);
+                //auxLocal = new Local(txtNroOrigen.Text, numero.Next(1, 50) , txtNroDestino.Text, (float)numero.Next(5, 56)/10);
+                //this.centralita += auxLocal;
+                this.centralita += new Local(txtNroOrigen.Text, numero.Next(1, 50), txtNroDestino.Text, (float)numero.Next(5, 56) / 10);
             }          
             MessageBox.Show("Llamada agregada con éxito!");
         }
@@ -163,7 +157,12 @@ namespace Ejercicio_N_40
 
         private void TxtNroOrigen_Click(object sender, EventArgs e)
         {
-            txtNroOrigen.Clear();
+            this.textBoxActual = txtNroOrigen;
+        }
+
+        private void txtNroDestino_Click(object sender, EventArgs e)
+        {
+            this.textBoxActual = txtNroDestino;
         }
     }
 }

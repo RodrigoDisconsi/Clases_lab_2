@@ -27,3 +27,4 @@ D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Eje
 D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.exe
 D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio N°40.pdb
 D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio_N_40.FormMostrar.resources
+D:\Rodrigo\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicio 37\CentralTelefonica\Ejercicio N°40\obj\Debug\Ejercicio_N_40.FormMostrar.resources
