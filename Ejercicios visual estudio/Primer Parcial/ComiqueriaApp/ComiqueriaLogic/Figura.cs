@@ -23,7 +23,7 @@ namespace ComiqueriaLogic
         public override string ToString()
         {
             StringBuilder rtn = new StringBuilder();
-            rtn.AppendLine(base.ToString());
+            rtn.Append(base.ToString());
             rtn.AppendLine($"Altura: {this.altura}");
             return rtn.ToString();
         }

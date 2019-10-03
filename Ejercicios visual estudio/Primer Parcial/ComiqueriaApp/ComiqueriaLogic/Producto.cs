@@ -43,7 +43,7 @@ namespace ComiqueriaLogic
 
         protected Producto(string descripcion, int stock, double precio)
         {
-            this.code = new Guid();
+            this.code = Guid.NewGuid();
             this.description = descripcion;
             this.stock = stock;
             this.precio = precio;

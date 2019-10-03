@@ -20,7 +20,7 @@ namespace ComiqueriaLogic
         public override string ToString()
         {
             StringBuilder rtn = new StringBuilder();
-            rtn.AppendLine(base.ToString());
+            rtn.Append(base.ToString());
             rtn.AppendLine($"Autor: {this.autor}");
             rtn.AppendLine($"Tipo de comic: {this.tipoComic}");
             return rtn.ToString();

@@ -1,0 +1,6 @@
+D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
