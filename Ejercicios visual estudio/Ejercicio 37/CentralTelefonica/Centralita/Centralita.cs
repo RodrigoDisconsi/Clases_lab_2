@@ -60,14 +60,15 @@ namespace CentralitaHerencia
                 $"{this.GananciasPorLocal}, Ganancias provinciales: {this.GananciasPorProvincial}\n\n");
             foreach (Llamada aux in this.Llamadas)
             {
-                if (aux is Local)
-                {
-                    retorno.Append(((Local)aux).ToString());
-                }
-                if(aux is Provincial)
-                {
-                    retorno.Append(((Provincial)aux).ToString());
-                }
+                //if (aux is Local)
+                //{
+                //    retorno.Append(((Local)aux).ToString());
+                //}
+                //if (aux is Provincial)
+                //{
+                //    retorno.Append(((Provincial)aux).ToString());
+                //}
+                retorno.Append(aux.ToString());
             }
             return retorno.ToString();
         }

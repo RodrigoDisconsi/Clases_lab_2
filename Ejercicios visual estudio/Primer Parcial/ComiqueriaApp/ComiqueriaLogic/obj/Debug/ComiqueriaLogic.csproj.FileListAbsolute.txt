@@ -4,3 +4,9 @@ D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\Comiquer
 D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
 D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
 D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

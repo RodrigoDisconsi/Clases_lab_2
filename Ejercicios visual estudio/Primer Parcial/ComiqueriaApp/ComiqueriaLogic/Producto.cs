@@ -59,7 +59,7 @@ namespace ComiqueriaLogic
             StringBuilder rtn = new StringBuilder();
             rtn.AppendLine($"Descripción: {this.description}");
             rtn.AppendLine($"Código: {this.code}");
-            rtn.AppendLine($"Precio: {this.precio}");
+            rtn.AppendLine($"Precio sin IVA: {this.precio}");
             rtn.AppendLine($"Stock: {this.stock}");
             return rtn.ToString();
         }

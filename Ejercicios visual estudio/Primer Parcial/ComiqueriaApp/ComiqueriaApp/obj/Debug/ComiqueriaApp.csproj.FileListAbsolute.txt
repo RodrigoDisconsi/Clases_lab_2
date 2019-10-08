@@ -63,3 +63,17 @@ D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\Comiquer
 D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
 D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
 D:\kdfhklsdafdasf\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+D:\Git\Clases_lab_2\Ejercicios visual estudio\Primer Parcial\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

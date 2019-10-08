@@ -39,13 +39,11 @@
             // 
             // lblDescripcion
             // 
-            this.lblDescripcion.AutoSize = true;
-            this.lblDescripcion.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDescripcion.Location = new System.Drawing.Point(12, 21);
+            this.lblDescripcion.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDescripcion.Location = new System.Drawing.Point(12, 9);
             this.lblDescripcion.Name = "lblDescripcion";
-            this.lblDescripcion.Size = new System.Drawing.Size(66, 24);
+            this.lblDescripcion.Size = new System.Drawing.Size(245, 37);
             this.lblDescripcion.TabIndex = 0;
-            this.lblDescripcion.Text = "label1";
             // 
             // numericUpDownCantidad
             // 
@@ -93,6 +91,7 @@
             this.btnVender.TabIndex = 4;
             this.btnVender.Text = "Vender";
             this.btnVender.UseVisualStyleBackColor = true;
+            this.btnVender.Click += new System.EventHandler(this.BtnVender_Click);
             // 
             // btnCancelar
             // 
@@ -118,6 +117,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "VentasForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Nueva Venta";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCantidad)).EndInit();
             this.ResumeLayout(false);

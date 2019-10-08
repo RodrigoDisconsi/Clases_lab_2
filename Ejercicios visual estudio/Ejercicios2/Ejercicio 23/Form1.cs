@@ -55,7 +55,7 @@ namespace Ejercicio_23
             double aux;
             if(double.TryParse(txtEuro.Text, out aux))
             {
-                Euro dinero = new Euro(aux);
+                Euro dinero = aux;
                 txtEuroAEuro.Text = (dinero.GetCantidad()).ToString();
                 txtEuroADolar.Text = ((Dolar)dinero).GetCantidad().ToString();
                 txtEuroAPesos.Text = ((Pesos)dinero).GetCantidad().ToString();
@@ -67,7 +67,7 @@ namespace Ejercicio_23
             double aux;
             if(double.TryParse(txtDolar.Text, out aux))
             {
-                Dolar dinero = new Dolar(aux);
+                Dolar dinero = aux;
                 txtDolarADolar.Text = dinero.GetCantidad().ToString();
                 txtDolarAEuro.Text = ((Euro)dinero).GetCantidad().ToString();
                 txtDolarAPesos.Text = ((Pesos)dinero).GetCantidad().ToString();
@@ -80,7 +80,7 @@ namespace Ejercicio_23
             double aux;
             if(double.TryParse(txtPesos.Text, out aux))
             {
-                Pesos dinero = new Pesos(aux);
+                Pesos dinero = aux;
                 txtPesosAPesos.Text = dinero.GetCantidad().ToString();
                 txtPesosADolar.Text = ((Dolar)dinero).GetCantidad().ToString();
                 txtPesosAEuro.Text = ((Euro)dinero).GetCantidad().ToString();
