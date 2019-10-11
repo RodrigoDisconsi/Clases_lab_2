@@ -1,0 +1,36 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\obj\Debug\ControlCantina.Barra.resources
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.GenerateResource.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\bin\Debug\ControlesUsuario.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\bin\Debug\ControlesUsuario.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\obj\Debug\ControlesUsuario.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\obj\Debug\ControlesUsuario.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\obj\Debug\ControlesUsuario.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20191010-PrimerParcial-2\ControlesUsuario\obj\Debug\ControlesUsuario.csprojAssemblyReference.cache
+D:\Rodrigo\Primer Parcial\ControlesUsuario\obj\Debug\ControlesUsuario.csprojAssemblyReference.cache
+D:\Rodrigo\Primer Parcial\ControlesUsuario\obj\Debug\ControlCantina.Barra.resources
+D:\Rodrigo\Primer Parcial\ControlesUsuario\obj\Debug\ControlesUsuario.Properties.Resources.resources
+D:\Rodrigo\Primer Parcial\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.GenerateResource.cache
+D:\Rodrigo\Primer Parcial\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Primer Parcial\ControlesUsuario\obj\Debug\ControlesUsuario.dll
+D:\Rodrigo\Primer Parcial\ControlesUsuario\obj\Debug\ControlesUsuario.pdb
+D:\Rodrigo\Primer Parcial\ControlesUsuario\bin\Debug\ControlesUsuario.dll
+D:\Rodrigo\Primer Parcial\ControlesUsuario\bin\Debug\ControlesUsuario.pdb
+D:\Rodrigo\Primer Parcial\ControlesUsuario\bin\Debug\Botella.dll
+D:\Rodrigo\Primer Parcial\ControlesUsuario\bin\Debug\Botella.pdb
+D:\Rodrigo\Primer Parcial\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\bin\Debug\ControlesUsuario.dll
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\bin\Debug\ControlesUsuario.pdb
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\bin\Debug\Botella.dll
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\bin\Debug\Botella.pdb
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csprojAssemblyReference.cache
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlCantina.Barra.resources
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.Properties.Resources.resources
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.GenerateResource.cache
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.dll
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.pdb

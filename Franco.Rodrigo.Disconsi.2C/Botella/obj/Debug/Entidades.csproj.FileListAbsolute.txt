@@ -1,0 +1,11 @@
+D:\Rodrigo\Primer Parcial\Botella\bin\Debug\Botella.dll
+D:\Rodrigo\Primer Parcial\Botella\bin\Debug\Botella.pdb
+D:\Rodrigo\Primer Parcial\Botella\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Primer Parcial\Botella\obj\Debug\Botella.dll
+D:\Rodrigo\Primer Parcial\Botella\obj\Debug\Botella.pdb
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\Botella\bin\Debug\Botella.dll
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\Botella\bin\Debug\Botella.pdb
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\Botella\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\Botella\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\Botella\obj\Debug\Botella.dll
+D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\Botella\obj\Debug\Botella.pdb
