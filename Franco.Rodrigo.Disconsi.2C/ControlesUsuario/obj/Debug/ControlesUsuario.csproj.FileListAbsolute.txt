@@ -34,3 +34,15 @@ D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuari
 D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
 D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.dll
 D:\Rodrigo\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.pdb
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\bin\Debug\ControlesUsuario.dll
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\bin\Debug\ControlesUsuario.pdb
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\bin\Debug\Botella.dll
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\bin\Debug\Botella.pdb
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csprojAssemblyReference.cache
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlCantina.Barra.resources
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.Properties.Resources.resources
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.GenerateResource.cache
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.dll
+D:\Rodrigo\Clases_lab_2\Franco.Rodrigo.Disconsi.2C\ControlesUsuario\obj\Debug\ControlesUsuario.pdb

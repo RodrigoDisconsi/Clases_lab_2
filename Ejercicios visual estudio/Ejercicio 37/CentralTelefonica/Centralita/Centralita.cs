@@ -131,6 +131,10 @@ namespace CentralitaHerencia
             {
                 c.AgregarLlamada(l);
             }
+            else
+            {
+                throw new CentralitaException("Error la llamada ya se encuentra en el sistema", "Centralita", "Operador +");
+            }
             return c;
         }
     }

@@ -8,7 +8,7 @@ namespace Entidades
 {
     public class Cerveza : Botella
     {
-        const int medida = 330;
+        const int MEDIDA = 330;
         Tipo tipo;
 
         public Cerveza(int capacidadML, string marca, Tipo tipo, int contenidoML) :base(marca, capacidadML, contenidoML)
@@ -24,16 +24,16 @@ namespace Entidades
         public override int ServirMedida()
         {
             int rtn;
-            int servir = (medida * 80) / 100;
-            if(this.contenidoML >= medida)
+            int servir = (MEDIDA * 80) / 100;
+            if(this.contenidoML >= MEDIDA)
             {
                 this.contenidoML -= servir;
                 rtn = servir;
             }
             else
             {
-                this.contenidoML -= this.contenidoML;
                 rtn = this.contenidoML;
+                this.contenidoML -= this.contenidoML;
             }
             return rtn;
         }
@@ -42,8 +42,9 @@ namespace Entidades
         {
             StringBuilder rtn = new StringBuilder();
             rtn.AppendLine(base.GenerarInforme());
-            rtn.AppendLine($"Medida: {medida}");
+            rtn.AppendLine($"Medida: {MEDIDA}");
             rtn.AppendLine($"Tipo: {this.tipo}");
+            rtn.AppendLine($"Porcentaje: {this.PorcentajeContenido}%");
             return rtn.ToString();
         }
 

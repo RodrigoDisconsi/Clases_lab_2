@@ -1,6 +1,0 @@
-C:\Users\rodri\Desktop\FrancoRodrigo.Disconsi.2C\Entidades\bin\Debug\Entidades.dll
-C:\Users\rodri\Desktop\FrancoRodrigo.Disconsi.2C\Entidades\bin\Debug\Entidades.pdb
-C:\Users\rodri\Desktop\FrancoRodrigo.Disconsi.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\rodri\Desktop\FrancoRodrigo.Disconsi.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\rodri\Desktop\FrancoRodrigo.Disconsi.2C\Entidades\obj\Debug\Entidades.dll
-C:\Users\rodri\Desktop\FrancoRodrigo.Disconsi.2C\Entidades\obj\Debug\Entidades.pdb

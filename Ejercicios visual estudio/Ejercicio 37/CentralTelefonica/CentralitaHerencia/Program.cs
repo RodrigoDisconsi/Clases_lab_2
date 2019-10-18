@@ -21,11 +21,47 @@ namespace CentralTelefonica
             Provincial l5 = new Provincial("Berazategui", Provincial.Franja.Franja_3, 21, "Quilmes");
             // Las llamadas se irán registrando en la Centralita.
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
-            c = c + l1;
-            c = c + l2;
-            c = c + l3;
-            c = c + l4;
-            c = c + l5;
+            try
+            {
+                c = c + l1;
+                c = c + l1;
+            }
+            catch(CentralitaException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            try
+            {
+                c = c + l2;
+            }
+            catch(CentralitaException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            try
+            {
+                c = c + l3;
+            }
+            catch(CentralitaException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            try
+            {
+                c = c + l4;
+            }
+            catch(CentralitaException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            try
+            {
+                c = c + l5;
+            }
+            catch(CentralitaException e)
+            {
+                Console.WriteLine(e.Message);
+            }  
             c.OrdenarLlamadas();
             Console.WriteLine(c.ToString());
             Console.ReadKey();

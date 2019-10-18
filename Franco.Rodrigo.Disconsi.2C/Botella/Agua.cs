@@ -8,7 +8,7 @@ namespace Entidades
 {
     public class Agua : Botella
     {
-        const int medida = 400;
+        const int MEDIDA = 400;
 
         public Agua(int capacidadML, string marca, int contenidoML) : base(marca, capacidadML, contenidoML)
         {
@@ -17,21 +17,21 @@ namespace Entidades
 
         public override int ServirMedida()
         {
-            return this.ServirMedida(medida);
+            return this.ServirMedida(MEDIDA);
         }
 
-        public int ServirMedida(int medida)
+        public int ServirMedida(int MEDIDA)
         {
             int rtn;
-            if (medida <= this.contenidoML)
+            if (MEDIDA <= this.contenidoML)
             {
-                this.contenidoML -= medida;
-                rtn = medida;
+                this.contenidoML -= MEDIDA;
+                rtn = MEDIDA;
             }
             else
             {
-                this.contenidoML -= this.contenidoML;
                 rtn = this.contenidoML;
+                this.contenidoML -= this.contenidoML;
             }
             return rtn;
         }
@@ -40,7 +40,8 @@ namespace Entidades
         {
             StringBuilder rtn = new StringBuilder();
             rtn.AppendLine(base.GenerarInforme());
-            rtn.AppendLine($"Medida: {medida}");
+            rtn.AppendLine($"Medida: {MEDIDA}");
+            rtn.AppendLine($"Porcentaje: {this.PorcentajeContenido}%");
             return rtn.ToString();
         }
     }
