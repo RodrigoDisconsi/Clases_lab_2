@@ -8,3 +8,13 @@ D:\Rodrigo\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\D
 D:\Rodrigo\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CopyComplete
 D:\Rodrigo\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\Debug\Ejercicio 42.exe
 D:\Rodrigo\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\Debug\Ejercicio 42.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\bin\Debug\Ejercicio 42.exe.config
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\bin\Debug\Ejercicio 42.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\bin\Debug\Ejercicio 42.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\bin\Debug\MiClase.dll
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\bin\Debug\MiClase.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\Debug\Ejercicio 42.csprojAssemblyReference.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CoreCompileInputs.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CopyComplete
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\Debug\Ejercicio 42.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 42\obj\Debug\Ejercicio 42.pdb

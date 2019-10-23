@@ -43,6 +43,13 @@ namespace TestUnitario
             Provincial p2 = new Provincial(Provincial.Franja.Franja_3, p1);
             Local l1 = new Local("Bernal", 40, "Berazategui", 10);
             Local l2 = new Local(l1, 10);
+
+            Assert.IsTrue(p1 == p2);
+            Assert.IsTrue(p1 != l2);
+            Assert.IsTrue(p1 != l1);
+            Assert.IsTrue(l1 == l2);
+            Assert.IsTrue(l1 != p2);
+            Assert.IsTrue(l2 != p2);
         }
 
 

@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Moneda;
+using System;
 using System.Windows.Forms;
-using Moneda;
 
 namespace Ejercicio_23
 {
@@ -47,13 +40,13 @@ namespace Ejercicio_23
 
         private void TxtCotizacionEuro_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void BtnConvertEuro_Click(object sender, EventArgs e)
         {
             double aux;
-            if(double.TryParse(txtEuro.Text, out aux))
+            if (double.TryParse(txtEuro.Text, out aux))
             {
                 Euro dinero = aux;
                 txtEuroAEuro.Text = (dinero.GetCantidad()).ToString();
@@ -65,20 +58,20 @@ namespace Ejercicio_23
         private void BtnConvertDolar_Click(object sender, EventArgs e)
         {
             double aux;
-            if(double.TryParse(txtDolar.Text, out aux))
+            if (double.TryParse(txtDolar.Text, out aux))
             {
                 Dolar dinero = aux;
                 txtDolarADolar.Text = dinero.GetCantidad().ToString();
                 txtDolarAEuro.Text = ((Euro)dinero).GetCantidad().ToString();
                 txtDolarAPesos.Text = ((Pesos)dinero).GetCantidad().ToString();
-                
+
             }
         }
 
         private void BtnConvertPesos_Click(object sender, EventArgs e)
         {
             double aux;
-            if(double.TryParse(txtPesos.Text, out aux))
+            if (double.TryParse(txtPesos.Text, out aux))
             {
                 Pesos dinero = aux;
                 txtPesosAPesos.Text = dinero.GetCantidad().ToString();
