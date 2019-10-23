@@ -40,11 +40,6 @@ namespace Entidades
             return rtn.ToString();
         }
 
-        public override bool Equals(object obj)
-        {
-            return obj is MotoCross;
-        }
-
         public static bool operator ==(MotoCross c1, MotoCross c2)
         {
             if ((VehiculoDeCarrera)c1 == (VehiculoDeCarrera)c2 && c1.cilindrada == c2.cilindrada)

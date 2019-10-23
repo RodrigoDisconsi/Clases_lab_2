@@ -40,10 +40,6 @@ namespace Entidades
             return rtn.ToString();
         }
 
-        public override bool Equals(object obj)
-        {
-            return obj is AutoF1;
-        }
 
         public static bool operator ==(AutoF1 a1, AutoF1 a2)
         {

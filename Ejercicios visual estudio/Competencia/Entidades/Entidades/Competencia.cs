@@ -46,15 +46,14 @@ namespace Entidades
 
         public static bool operator ==(Competencia c, VehiculoDeCarrera a)
         {
-            //foreach(VehiculoDeCarrera aux in c.competidores)
-            //{
-            //    if(aux == a)
-            //    {
-            //        return true;
-            //    }
-            //}
-            //return false;
-            return c.competidores[0].Equals(a);
+            foreach (VehiculoDeCarrera aux in c.competidores)
+            {
+                if (aux == a && a.GetType() == aux.GetType())
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         public static bool operator !=(Competencia c, VehiculoDeCarrera a)
@@ -83,7 +82,7 @@ namespace Entidades
                     a.Vueltas = c.cantidadVueltas;
                     return true;
                 }
-                if(c == a)
+                if(c.competidores[0].GetType() == a.GetType())
                 {
                     c.competidores.Add(a);
                     a.Activo = true;
