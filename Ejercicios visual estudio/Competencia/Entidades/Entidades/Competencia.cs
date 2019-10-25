@@ -66,21 +66,14 @@ namespace Entidades
             Random numero = new Random();
             if(c != a && c.cantidadCompetidores > c.competidores.Count)
             {
-                if(c.competidores.Count == 0)
+                if(c.competidores.Count == 0 && c != a)
                 {
-                    if (a is AutoF1)
-                    {
-                        c.tipo = TipoCompetencia.F1;
-                    }
-                    else
-                    {
-                        c.tipo = TipoCompetencia.MotoCross;
-                    }
-                    c.competidores.Add(a);
-                    a.Activo = true;
-                    a.Combustible = (short)numero.Next(15, 100);
-                    a.Vueltas = c.cantidadVueltas;
-                    return true;
+                        c.competidores.Add(a);
+                        a.Activo = true;
+                        a.Combustible = (short)numero.Next(15, 100);
+                        a.Vueltas = c.cantidadVueltas;
+                        return true;
+                    
                 }
                 if(c.competidores[0].GetType() == a.GetType())
                 {
