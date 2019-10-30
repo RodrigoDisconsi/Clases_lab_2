@@ -1,0 +1,3 @@
+Ejercicio 51 y 55 - Preguntar que es FallaLogException y la propiedad como se usa -  Por qué devolvería false Guardar?
+Ejercicio 47, como usar excepción en el add
+Ejercicio 56 si hay una forma más fácil de declarar la ruta, y que es "Text Files | *.txt"

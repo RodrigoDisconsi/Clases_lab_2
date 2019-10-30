@@ -20,15 +20,17 @@ namespace TorneoConsola
             EquipoDeBasquet warrios = new EquipoDeBasquet("Warrios", DateTime.Now);
             EquipoDeBasquet chicago = new EquipoDeBasquet("Chicaco Bulls", DateTime.Now);
 
-
             torneoFutbol += independiente;
             torneoFutbol += sanLorenzo;
             torneoFutbol += Boca;
             torneoFutbol += independiente;
+            //torneoBasquet += independiente;
             torneoBasquet += lakers;
             torneoBasquet += warrios;
             torneoBasquet += chicago;
             torneoBasquet += lakers;
+            
+            
 
             Console.WriteLine(torneoBasquet.Mostrar());
             Console.ReadKey();

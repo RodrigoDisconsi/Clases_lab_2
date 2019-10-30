@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MiClaseExcepcion;
+using IO;
+using System.IO;
 
 namespace Ejercicio_42
 {
@@ -12,15 +14,23 @@ namespace Ejercicio_42
         static void Main(string[] args)
         {
             MiClase excepcion = new MiClase("hola");
+            //try
+            //{
+            //    excepcion.MiMetodo();
+            //}
+            //catch(Exception e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //    Console.WriteLine(e.InnerException.Message);
+            //    Console.WriteLine(e.InnerException.InnerException.Message);
+            //}
             try
             {
-                excepcion.MiMetodo();
+                Console.WriteLine(ArchivoTexto.Leer("D:\\asdasdasd.txt"));
             }
-            catch(Exception e)
+            catch(FileNotFoundException e)
             {
-                Console.WriteLine(e.Message);
-                Console.WriteLine(e.InnerException.Message);
-                Console.WriteLine(e.InnerException.InnerException.Message);
+                Console.WriteLine("EL archivo no existe");
             }
             Console.ReadKey();
         }

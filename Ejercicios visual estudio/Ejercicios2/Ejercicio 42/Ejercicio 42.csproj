@@ -49,6 +49,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\IO\IO.csproj">
+      <Project>{26e9cb1e-b479-4011-8e5f-ff7e837e0905}</Project>
+      <Name>IO</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MiClase\MiClaseExcepcion.csproj">
       <Project>{57b9a508-322e-44f4-af68-8a55e4f3488b}</Project>
       <Name>MiClaseExcepcion</Name>

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3024B901-01B9-4348-BE49-3449CCB739D5}</ProjectGuid>
+    <ProjectGuid>{26E9CB1E-B479-4011-8E5F-FF7E837E0905}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ejercicio_52Entidades</RootNamespace>
-    <AssemblyName>Ejercicio_52Entidades</AssemblyName>
+    <RootNamespace>IO</RootNamespace>
+    <AssemblyName>IO</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,11 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Boligrafo.cs" />
-    <Compile Include="Cartuchera1.cs" />
-    <Compile Include="EscrituraWrapper.cs" />
-    <Compile Include="IAcciones.cs" />
-    <Compile Include="Lapiz.cs" />
+    <Compile Include="ArchivoTexto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

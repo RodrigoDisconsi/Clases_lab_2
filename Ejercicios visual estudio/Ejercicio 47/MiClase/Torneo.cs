@@ -59,10 +59,7 @@ namespace MiClase
             int indiceEquipoA;
             int indiceEquipoB;
             indiceEquipoA = r1.Next(0, this.equipos.Count);
-            do
-            {
-                indiceEquipoB = r1.Next(0, this.equipos.Count);
-            } while (indiceEquipoB == indiceEquipoA);
+            indiceEquipoB = r1.Next(0, this.equipos.Count);
             return this.CalcularPartido<Equipo>(this.equipos[indiceEquipoA], this.equipos[indiceEquipoB]);
         }
 
