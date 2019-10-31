@@ -23,7 +23,7 @@ namespace Ejercicio_56
         private void AbrirToolStripMenuItem_Click(object sender, EventArgs e)
         {
             OpenFileDialog abrir = new OpenFileDialog();
-            abrir.Filter = "Text Files | *.txt";
+            abrir.Filter = "Text files | *.txt";
             abrir.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             if (abrir.ShowDialog() == DialogResult.OK)
             {
@@ -39,29 +39,22 @@ namespace Ejercicio_56
 
         private void GuardarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            path += "\\Texto.txt";
-            if(this.auxArchivo != null)
+            if(this.auxArchivo == null)
             {
-                using (StreamWriter archivo = new StreamWriter(this.auxArchivo, false))
-                {
-                    archivo.WriteLine(richTextBox1.Text);
-                }
+                string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                path += "\\Texto.txt";
+                this.auxArchivo = path;
             }
-            else
+            using (StreamWriter archivo = new StreamWriter(this.auxArchivo, false))
             {
-                using (StreamWriter archivo = new StreamWriter(path, false))
-                {
-                    archivo.WriteLine(richTextBox1.Text);
-                    this.auxArchivo = path;
-                }
+                archivo.WriteLine(richTextBox1.Text); 
             }
         }
 
         private void GuardarComoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog guardar = new SaveFileDialog();
-            guardar.Filter = "Text Files | *.txt";
+            guardar.Filter = "Image Files(*.BMP;*.JPG;*.GIF)|*.BMP;*.JPG;*.GIF|All files (*.*)|*.*";
             guardar.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             if (guardar.ShowDialog() == DialogResult.OK)
             {
