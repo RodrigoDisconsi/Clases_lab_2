@@ -12,9 +12,28 @@ namespace Ejercicio63
 {
     public partial class Form1 : Form
     {
+        Temporizador temp;
         public Form1()
         {
             InitializeComponent();
+            temp = new Temporizador();
+            temp.EventoTiempo += this.AsignarHora;
+            temp.Activo = true;
         }
+
+        public void AsignarHora()
+        {
+            if(this.label1.InvokeRequired)
+            {
+                encargatoTiempo d = new encargatoTiempo(this.AsignarHora);
+                this.Invoke(d);
+            }
+            else
+            {
+                this.label1.Text = DateTime.Now.ToString();
+            }
+        }
+
+
     }
 }
