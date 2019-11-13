@@ -23,8 +23,9 @@ namespace Ejercicio63
             set
             {
                 this.activo = value;
-                if (value == true && this.hilo.IsAlive == false)
+                if (value == true && this.hilo == null)
                 {
+                    this.hilo = new Thread(Corriendo);
                     this.hilo.Start();
                 }
                 else
@@ -48,7 +49,6 @@ namespace Ejercicio63
 
         public Temporizador()
         {
-            this.hilo = new Thread(Corriendo);
             this.intervalo = 1000;
         }
 

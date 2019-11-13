@@ -29,7 +29,7 @@ namespace Ejercicio_68
             if (object.ReferenceEquals(persona, null))
             {
                 this.btnCrear.Text = "Actualizar";
-                this.persona = new Persona(); // this.txtNombre.Text, this.txtApellido.Text);
+                this.persona = new Persona();
                 this.persona.EventoString += NotificarCambio;
             }
 

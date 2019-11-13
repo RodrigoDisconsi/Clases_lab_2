@@ -34,6 +34,9 @@ namespace Ejercicio63
             }
         }
 
-
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.temp.Activo = false;
+        }
     }
 }
