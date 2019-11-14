@@ -12,3 +12,10 @@ D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejerci
 D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\obj\Debug\Ejercicio N°29.csproj.CoreCompileInputs.cache
 D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\obj\Debug\Ejercicio N°29.exe
 D:\Rodrigo\Git\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\obj\Debug\Ejercicio N°29.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\bin\Debug\Ejercicio N°29.exe.config
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\bin\Debug\Ejercicio N°29.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\bin\Debug\Ejercicio N°29.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\obj\Debug\Ejercicio N°29.csprojAssemblyReference.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\obj\Debug\Ejercicio N°29.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\obj\Debug\Ejercicio N°29.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio N°29\obj\Debug\Ejercicio N°29.pdb

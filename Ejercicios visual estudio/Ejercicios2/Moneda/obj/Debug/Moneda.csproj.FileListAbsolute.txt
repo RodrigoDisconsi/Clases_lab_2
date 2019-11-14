@@ -10,3 +10,9 @@ D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\obj\Debug\Moned
 D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
 D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\obj\Debug\Moneda.dll
 D:\Git\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\obj\Debug\Moneda.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\bin\Debug\Moneda.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\bin\Debug\Moneda.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\obj\Debug\Moneda.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Moneda\obj\Debug\Moneda.pdb

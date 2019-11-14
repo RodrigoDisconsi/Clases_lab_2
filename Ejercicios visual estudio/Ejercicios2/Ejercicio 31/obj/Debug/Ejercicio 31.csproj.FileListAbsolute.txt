@@ -5,3 +5,7 @@ D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 3
 D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 31\obj\Debug\Ejercicio 31.csproj.CoreCompileInputs.cache
 D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 31\obj\Debug\Ejercicio 31.exe
 D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 31\obj\Debug\Ejercicio 31.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 31\obj\Debug\Ejercicio 31.csprojAssemblyReference.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 31\obj\Debug\Ejercicio 31.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 31\obj\Debug\Ejercicio 31.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 31\obj\Debug\Ejercicio 31.pdb

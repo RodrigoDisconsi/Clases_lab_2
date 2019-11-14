@@ -1,0 +1,9 @@
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\bin\Debug\frmPrincipal.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\bin\Debug\frmPrincipal.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\obj\Debug\frmPrincipal.FormPrincipal.resources
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\obj\Debug\Ejercicio69.csproj.GenerateResource.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\obj\Debug\Ejercicio69.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\obj\Debug\frmPrincipal.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\frmPrincipal\obj\Debug\frmPrincipal.pdb

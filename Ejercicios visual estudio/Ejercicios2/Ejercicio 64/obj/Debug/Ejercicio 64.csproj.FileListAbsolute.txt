@@ -1,0 +1,6 @@
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 64\bin\Debug\Ejercicio 64.exe.config
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 64\bin\Debug\Ejercicio 64.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 64\bin\Debug\Ejercicio 64.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 64\obj\Debug\Ejercicio 64.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 64\obj\Debug\Ejercicio 64.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 64\obj\Debug\Ejercicio 64.pdb

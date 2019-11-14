@@ -1,0 +1,5 @@
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio50\bin\Debug\Ejercicio50.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio50\bin\Debug\Ejercicio50.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio50\obj\Debug\Ejercicio50.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio50\obj\Debug\Ejercicio50.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio50\obj\Debug\Ejercicio50.pdb

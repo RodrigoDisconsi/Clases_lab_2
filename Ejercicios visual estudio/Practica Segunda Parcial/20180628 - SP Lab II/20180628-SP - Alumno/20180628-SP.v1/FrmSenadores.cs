@@ -91,6 +91,8 @@ namespace _20180628_SP.v1
                     SerializarXml<Votacion> guardar = new SerializarXml<Votacion>();
                     string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\archivo.xml";
                     guardar.Guardar(path, this.votacion);
+                    DAO dao = new DAO();
+                    dao.Guardar("asdas", this.votacion);
                 }
             }
         }

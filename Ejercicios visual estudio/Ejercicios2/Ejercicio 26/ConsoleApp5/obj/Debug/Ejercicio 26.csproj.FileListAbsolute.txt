@@ -18,3 +18,10 @@ D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 2
 D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\obj\Debug\Ejercicio 26.csproj.CoreCompileInputs.cache
 D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 D:\Github\Clases-laboratorio-2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\obj\Debug\Ejercicio 26.csprojAssemblyReference.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\obj\Debug\Ejercicio 26.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 26\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

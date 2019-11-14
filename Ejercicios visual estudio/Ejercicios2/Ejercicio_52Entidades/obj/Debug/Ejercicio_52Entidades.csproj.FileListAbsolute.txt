@@ -1,0 +1,5 @@
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio_52Entidades\bin\Debug\Ejercicio_52Entidades.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio_52Entidades\bin\Debug\Ejercicio_52Entidades.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio_52Entidades\obj\Debug\Ejercicio_52Entidades.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio_52Entidades\obj\Debug\Ejercicio_52Entidades.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio_52Entidades\obj\Debug\Ejercicio_52Entidades.pdb

@@ -114,15 +114,15 @@ namespace Entidades
                 // Invocar Evento
                 this.EventoVotoEfecutado.Invoke(k.Key, this.senadores[k.Key]);
                 // Incrementar contadores
-                if(k.Value == EVoto.Afirmativo)
+                if(this.senadores[k.Key] == EVoto.Afirmativo)
                 {
                     this.contadorAfirmativo++;
                 }
-                if(k.Value == EVoto.Negativo)
+                if(this.senadores[k.Key] == EVoto.Negativo)
                 {
                     this.contadorNegativo++;
                 }
-                if(k.Value == EVoto.Abstencion)
+                if(this.senadores[k.Key] == EVoto.Abstencion)
                 {
                     this.contadorAbstencion++;
                 }

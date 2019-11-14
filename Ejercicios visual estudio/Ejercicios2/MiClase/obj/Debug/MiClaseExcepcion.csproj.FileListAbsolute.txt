@@ -10,3 +10,9 @@ D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\obj\Debug\M
 D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\obj\Debug\MiClaseExcepcion.csproj.CoreCompileInputs.cache
 D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\obj\Debug\MiClase.dll
 D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\obj\Debug\MiClase.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\bin\Debug\MiClase.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\bin\Debug\MiClase.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\obj\Debug\MiClaseExcepcion.csprojAssemblyReference.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\obj\Debug\MiClaseExcepcion.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\obj\Debug\MiClase.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\MiClase\obj\Debug\MiClase.pdb

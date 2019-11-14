@@ -1,0 +1,10 @@
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\bin\Debug\Ejercicio 52.exe.config
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\bin\Debug\Ejercicio 52.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\bin\Debug\Ejercicio 52.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\bin\Debug\Ejercicio_52Entidades.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\bin\Debug\Ejercicio_52Entidades.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\obj\Debug\Ejercicio 52.csprojAssemblyReference.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\obj\Debug\Ejercicio 52.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\obj\Debug\Ejercicio 52.csproj.CopyComplete
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\obj\Debug\Ejercicio 52.exe
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Ejercicios2\Ejercicio 52\obj\Debug\Ejercicio 52.pdb
