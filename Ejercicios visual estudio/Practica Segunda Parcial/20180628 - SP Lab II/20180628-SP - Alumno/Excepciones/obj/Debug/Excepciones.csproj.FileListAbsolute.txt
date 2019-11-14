@@ -1,0 +1,6 @@
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Practica Segunda Parcial\20180628 - SP Lab II\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Practica Segunda Parcial\20180628 - SP Lab II\20180628-SP - Alumno\Excepciones\bin\Debug\Excepciones.pdb
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Practica Segunda Parcial\20180628 - SP Lab II\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Practica Segunda Parcial\20180628 - SP Lab II\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Practica Segunda Parcial\20180628 - SP Lab II\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.dll
+D:\1111\Clases_lab_2\Ejercicios visual estudio\Practica Segunda Parcial\20180628 - SP Lab II\20180628-SP - Alumno\Excepciones\obj\Debug\Excepciones.pdb
