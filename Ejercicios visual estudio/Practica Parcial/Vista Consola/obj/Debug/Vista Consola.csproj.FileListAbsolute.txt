@@ -1,0 +1,7 @@
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Practica Parcial\Vista Consola\bin\Debug\Vista Consola.exe.config
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Practica Parcial\Vista Consola\bin\Debug\Vista Consola.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Practica Parcial\Vista Consola\bin\Debug\Vista Consola.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Practica Parcial\Vista Consola\obj\Debug\Vista Consola.csprojAssemblyReference.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Practica Parcial\Vista Consola\obj\Debug\Vista Consola.csproj.CoreCompileInputs.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Practica Parcial\Vista Consola\obj\Debug\Vista Consola.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Practica Parcial\Vista Consola\obj\Debug\Vista Consola.pdb

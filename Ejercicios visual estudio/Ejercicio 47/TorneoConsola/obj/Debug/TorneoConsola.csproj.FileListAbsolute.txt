@@ -1,0 +1,20 @@
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\bin\Debug\TorneoConsola.exe.config
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\bin\Debug\TorneoConsola.exe
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\bin\Debug\TorneoConsola.pdb
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\bin\Debug\MiClase.dll
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\bin\Debug\MiClase.pdb
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.csproj.CopyComplete
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.exe
+C:\Users\rodri\source\repos\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\bin\Debug\TorneoConsola.exe.config
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\bin\Debug\TorneoConsola.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\bin\Debug\TorneoConsola.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\bin\Debug\MiClase.dll
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\bin\Debug\MiClase.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.csprojAssemblyReference.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.csproj.CoreCompileInputs.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.csproj.CopyComplete
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\TorneoConsola\obj\Debug\TorneoConsola.pdb

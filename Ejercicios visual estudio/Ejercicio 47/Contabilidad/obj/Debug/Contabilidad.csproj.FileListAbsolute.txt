@@ -1,0 +1,6 @@
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Contabilidad\bin\Debug\Contabilidad.dll
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Contabilidad\obj\Debug\Contabilidad.csprojAssemblyReference.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Contabilidad\obj\Debug\Contabilidad.csproj.CoreCompileInputs.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Contabilidad\obj\Debug\Contabilidad.dll
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Contabilidad\obj\Debug\Contabilidad.pdb

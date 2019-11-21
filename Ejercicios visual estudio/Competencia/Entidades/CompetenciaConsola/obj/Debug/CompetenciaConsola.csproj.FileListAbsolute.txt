@@ -1,0 +1,10 @@
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\bin\Debug\CompetenciaConsola.exe.config
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\bin\Debug\CompetenciaConsola.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\bin\Debug\CompetenciaConsola.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\bin\Debug\Entidades.dll
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\bin\Debug\Entidades.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\obj\Debug\CompetenciaConsola.csprojAssemblyReference.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\obj\Debug\CompetenciaConsola.csproj.CoreCompileInputs.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\obj\Debug\CompetenciaConsola.csproj.CopyComplete
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\obj\Debug\CompetenciaConsola.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Competencia\Entidades\CompetenciaConsola\obj\Debug\CompetenciaConsola.pdb

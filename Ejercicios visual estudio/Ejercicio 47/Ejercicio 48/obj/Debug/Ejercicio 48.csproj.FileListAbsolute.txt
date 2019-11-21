@@ -1,0 +1,10 @@
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\bin\Debug\Ejercicio 48.exe.config
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\bin\Debug\Ejercicio 48.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\bin\Debug\Ejercicio 48.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\bin\Debug\Contabilidad.dll
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\bin\Debug\Contabilidad.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\obj\Debug\Ejercicio 48.csprojAssemblyReference.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\obj\Debug\Ejercicio 48.csproj.CoreCompileInputs.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\obj\Debug\Ejercicio 48.csproj.CopyComplete
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\obj\Debug\Ejercicio 48.exe
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\Ejercicio 48\obj\Debug\Ejercicio 48.pdb

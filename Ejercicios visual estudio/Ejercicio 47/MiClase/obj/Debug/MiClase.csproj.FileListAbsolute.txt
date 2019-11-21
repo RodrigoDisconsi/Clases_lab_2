@@ -1,0 +1,12 @@
+C:\Users\rodri\source\repos\Ejercicio 47\MiClase\bin\Debug\MiClase.dll
+C:\Users\rodri\source\repos\Ejercicio 47\MiClase\bin\Debug\MiClase.pdb
+C:\Users\rodri\source\repos\Ejercicio 47\MiClase\obj\Debug\MiClase.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\Ejercicio 47\MiClase\obj\Debug\MiClase.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Ejercicio 47\MiClase\obj\Debug\MiClase.dll
+C:\Users\rodri\source\repos\Ejercicio 47\MiClase\obj\Debug\MiClase.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\MiClase\bin\Debug\MiClase.dll
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\MiClase\bin\Debug\MiClase.pdb
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\MiClase\obj\Debug\MiClase.csprojAssemblyReference.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\MiClase\obj\Debug\MiClase.csproj.CoreCompileInputs.cache
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\MiClase\obj\Debug\MiClase.dll
+D:\Github\Clases_lab_2\Ejercicios visual estudio\Ejercicio 47\MiClase\obj\Debug\MiClase.pdb
