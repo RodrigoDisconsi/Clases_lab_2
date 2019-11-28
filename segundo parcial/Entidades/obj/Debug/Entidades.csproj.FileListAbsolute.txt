@@ -1,0 +1,12 @@
+D:\Segundo Parcial\20191121-SP - alumno\Entidades\bin\Debug\Entidades.dll
+D:\Segundo Parcial\20191121-SP - alumno\Entidades\bin\Debug\Entidades.pdb
+D:\Segundo Parcial\20191121-SP - alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Segundo Parcial\20191121-SP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Segundo Parcial\20191121-SP - alumno\Entidades\obj\Debug\Entidades.dll
+D:\Segundo Parcial\20191121-SP - alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alejandro\Desktop\Lab_Prog_2\segundo parcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\Lab_Prog_2\segundo parcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alejandro\Desktop\Lab_Prog_2\segundo parcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Lab_Prog_2\segundo parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Lab_Prog_2\segundo parcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alejandro\Desktop\Lab_Prog_2\segundo parcial\Entidades\obj\Debug\Entidades.pdb
